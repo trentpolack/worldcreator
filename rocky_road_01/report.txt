@@ -1,0 +1,84 @@
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.2.0.3 ──
+
+                                                                                              
+          Filename:  │ C:/development/assets/GaeaSandbox/rocky_road_01/rocky_road_03.terrain  
+    Build Location:  │ C:\development\Gaea\Builds\rocky_road_03\005                           
+        Build Type:  │ Standard Cropped to Tiles                                              
+  Build Resolution:  │ 8192 × 8192                                                            
+     Build Profile:  │ None / Last Saved Settings                                             
+             Nodes:  │ 57 to build                                                            
+                     │ 10 to export                                                           
+             Tiles:  │ 4                                                                      
+                                                                                              
+935 - File - failed!
+935 - File - failed!
+935 - File - failed!
+935 - File - failed!
+935 - File - failed!
+935 - File - failed!
+935 - File - failed!
+935 - File - failed!
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.2.0.3 ──
+
+                                                                                              
+          Filename:  │ C:/development/assets/GaeaSandbox/rocky_road_01/rocky_road_03.terrain  
+    Build Location:  │ C:\development\Gaea\Builds\rocky_road_03\005                           
+        Build Type:  │ Standard Cropped to Tiles                                              
+  Build Resolution:  │ 8192 × 8192                                                            
+     Build Profile:  │ None / Last Saved Settings                                             
+             Nodes:  │ 57 to build                                                            
+                     │ 10 to export                                                           
+             Tiles:  │ 4                                                                      
+                                                                                              
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────── Build Report ──
+
+              Build Results                               Statistics                
+                                                                                    
+          Result: │ Success                       Combine │ 0:00:00.31              
+      Resolution: │ 8192                     MultiFractal │ 0:00:04.311             
+      Node Count: │ 57                         DriftNoise │ 0:01:04.586             
+      Start Time: │ 08/20/2025 13:40:32            Uplift │ 0:00:39.77              
+        End Time: │ 08/20/2025 14:09:20         RockNoise │ 0:02:01.416             
+        Duration: │ 00:28:48.0968887             Outcrops │ 0:00:43.417             
+  Non-Build Time: │ 00:01:47.3838887                 Draw │ 0:00:00.414             
+                                                  Combine │ 0:00:00.944             
+                                                 Distress │ 0:19:33.253             
+                                                GraphicEQ │ 0:00:01.953             
+                                                   Adjust │ 0:00:00.307             
+                                                  Combine │ 0:00:00.369             
+                                                  Combine │ 0:00:00.608             
+                                                Threshold │ 0:00:01.033             
+                                                  Combine │ 0:00:00.967             
+                                             VariableBlur │ 0:00:05.654             
+                                                  Combine │ 0:00:04.655             
+                                                    Ridge │ 0:00:06.903             
+                                                   Rivers │ 0:00:51.128             
+                                                 Erosion2 │ 0:00:02.426             
+                                                     Lake │ 0:00:34.051             
+                                                   Height │ 0:00:00.85              
+                                                   Debris │ 0:00:16.972             
+                                                    Trees │ 0:00:20.232             
+                                                    Slope │ 0:00:00.143             
+                                                  Combine │ 0:00:00.103             
+                                                    Peaks │ 0:00:01.938             
+                                                   SatMap │ 0:00:01.499             
+                                                   SatMap │ 0:00:00.664             
+                                                   SatMap │ 0:00:00.517             
+                                                    Mixer │ 0:00:03.369             
+                                               WaterColor │ 0:00:01.071             
+                                                     Mask │ 0:00:00.246             
+                                                  Combine │ 0:00:00.143             
+                                                   Dilate │ 0:00:00.404             
+                                             ColorErosion │ 0:00:02.411             
+                                               Weathering │ 0:00:04.062             
+                                                   LightX │ 0:00:06.516             
+                                                  Normals │ 0:00:00.247             
+                                                     Mask │ 0:00:00.26              
+                                                          │                         
+                                                  Fastest │ File @ 0:00:00          
+                                                  Slowest │ Distress @ 0:19:33.253  
+                                                                                    
+                                            * nodes that took <100ms are excluded.  

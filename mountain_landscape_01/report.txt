@@ -1,0 +1,48 @@
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.2.0.0 ──
+
+                                                                                   
+          Filename:  │ C:/development/Gaea/Projects/mountain_landscape_01.terrain  
+    Build Location:  │ C:\development\Gaea\Builds\mountain_landscape_01\002        
+        Build Type:  │ Standard Cropped to Tiles                                   
+  Build Resolution:  │ 4096 × 4096                                                 
+     Build Profile:  │ None / Last Saved Settings                                  
+             Nodes:  │ 21 to build                                                 
+                     │ 07 to export                                                
+             Tiles:  │ 4                                                           
+                                                                                   
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.2.0.0 ──
+
+                                                                                   
+          Filename:  │ C:/development/Gaea/Projects/mountain_landscape_01.terrain  
+    Build Location:  │ C:\development\Gaea\Builds\mountain_landscape_01\002        
+        Build Type:  │ Standard Cropped to Tiles                                   
+  Build Resolution:  │ 4096 × 4096                                                 
+     Build Profile:  │ None / Last Saved Settings                                  
+             Nodes:  │ 21 to build                                                 
+                     │ 07 to export                                                
+             Tiles:  │ 4                                                           
+                                                                                   
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────── Build Report ──
+
+              Build Results                                       Statistics                       
+                                                                                                   
+          Result: │ Success                      Erosion2 │ 0:00:11.24                             
+      Resolution: │ 4096                      TextureBase │ 0:00:02.95                             
+      Node Count: │ 21                             SatMap │ 0:00:00.175                            
+      Start Time: │ 07/16/2025 04:46:05            SatMap │ 0:00:00.512                            
+        End Time: │ 07/16/2025 04:47:19      ColorErosion │ 0:00:02.137                            
+        Duration: │ 00:01:13.1629038               SatMap │ 0:00:00.244                            
+  Non-Build Time: │ 00:00:29.1229037                Mixer │ 0:00:01.4                              
+                                                    Ridge │ 0:00:03.361                            
+                                                 Mountain │ 0:00:14.352                            
+                                                  Normals │ 0:00:00.309                            
+                                                       AO │ 0:00:03.206                            
+                                               Texturizer │ 0:00:03.917                            
+                                                          │                                        
+                                                  Fastest │ Displacement Map Export @ 0:00:00.003  
+                                                  Slowest │ Mountain @ 0:00:14.352                 
+                                                                                                   
+                                                    * nodes that took <100ms are excluded.         

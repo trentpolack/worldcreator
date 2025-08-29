@@ -1,0 +1,56 @@
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.2.0.3 ──
+
+                                                                                
+          Filename:  │ C:/development/assets/GaeaSandbox/dragon_pit_02.terrain  
+    Build Location:  │ C:\development\Gaea\Builds\dragon_pit_02\002             
+        Build Type:  │ Standard                                                 
+  Build Resolution:  │ 8192 × 8192                                              
+     Build Profile:  │ None / Last Saved Settings                               
+             Nodes:  │ 34 to build                                              
+                     │ 05 to export                                             
+                                                                                
+
+──────────────────────────────────────────────────────────────────────────────────────────  GAEA BUILD SWARM  2.2.0.3 ──
+
+                                                                                
+          Filename:  │ C:/development/assets/GaeaSandbox/dragon_pit_02.terrain  
+    Build Location:  │ C:\development\Gaea\Builds\dragon_pit_02\002             
+        Build Type:  │ Standard                                                 
+  Build Resolution:  │ 8192 × 8192                                              
+     Build Profile:  │ None / Last Saved Settings                               
+             Nodes:  │ 34 to build                                              
+                     │ 05 to export                                             
+                                                                                
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────── Build Report ──
+
+              Build Results                                Statistics                
+                                                                                     
+          Result: │ Success                  DirectionalWarp │ 0:00:00.111           
+      Resolution: │ 8192                     DirectionalWarp │ 0:00:00.285           
+      Node Count: │ 34                                Canyon │ 0:00:18.882           
+      Start Time: │ 08/15/2025 04:57:46              Combine │ 0:00:00.567           
+        End Time: │ 08/15/2025 04:59:49                 Lake │ 0:00:14.971           
+        Duration: │ 00:02:03.7324337                    Warp │ 0:00:01.07            
+  Non-Build Time: │ 00:00:05.3354336                   Shear │ 0:00:09.015           
+                                                       Trees │ 0:00:20.282           
+                                                      Debris │ 0:00:18.757           
+                                                       Slope │ 0:00:00.119           
+                                                      Height │ 0:00:00.244           
+                                                     Combine │ 0:00:00.103           
+                                                      SatMap │ 0:00:00.572           
+                                                     Combine │ 0:00:00.154           
+                                                    TreeMask │ 0:00:00.138           
+                                                    Erosion2 │ 0:00:02.789           
+                                                  WaterColor │ 0:00:06.999           
+                                                  SuperColor │ 0:00:17.474           
+                                                        Tint │ 0:00:00.414           
+                                                       Peaks │ 0:00:02.691           
+                                                       Mixer │ 0:00:01.814           
+                                                    SplatMap │ 0:00:00.12            
+                                                             │                       
+                                                     Fastest │ Hemisphere @ 0:00:00  
+                                                     Slowest │ Trees @ 0:00:20.282   
+                                                                                     
+                                             * nodes that took <100ms are excluded.  
