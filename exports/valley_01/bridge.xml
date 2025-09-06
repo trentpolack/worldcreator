@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<WorldCreator Version="1.0">
+  <Project Name="valley_01" />
+  <Surface MinHeight="252.36143" MaxHeight="931.43024" Length="8192" Width="8192" ResolutionY="8192" ResolutionX="8192" TilesX="3" TilesY="3" TileResolution="4096" />
+  <Texturing>
+    <SplatTexture Index="0">
+      <TextureInfo Name="Material_Soil_Mud" Type="Set" AlbedoFile="Texture_0_Albedo.jpg" NormalFile="Texture_0_Normal.jpg" AoFile="Texture_0_Ao.jpg" DisplacementFile="Texture_0_Displacement.png" RoughnessFile="Texture_0_Roughness.jpg" TileSize="512,512" TileOffset="0,0" Metallic="0" Smoothness="0" Color="#ffffffff" />
+      <TextureInfo Name="Material_Grass_ogiqr2" Type="Set" AlbedoFile="Texture_1_Albedo.png" NormalFile="Texture_1_Normal.png" AoFile="Texture_1_Ao.png" DisplacementFile="Texture_1_Displacement.png" RoughnessFile="Texture_1_Roughness.png" TileSize="1024,1024" TileOffset="0,0" Metallic="0" Smoothness="0" Color="#ffffffff" />
+      <TextureInfo Name="Material_Cracked_Sand_pjEmy" Type="Set" AlbedoFile="Texture_2_Albedo.png" NormalFile="Texture_2_Normal.png" AoFile="Texture_2_Ao.png" DisplacementFile="Texture_2_Displacement.png" RoughnessFile="Texture_2_Roughness.png" TileSize="512,512" TileOffset="0,0" Metallic="0" Smoothness="0" Color="#ffffffff" />
+      <TextureInfo Name="Material_Grass_Dried" Type="Set" AlbedoFile="Texture_3_Albedo.png" NormalFile="Texture_3_Normal.png" AoFile="Texture_3_Ao.png" DisplacementFile="Texture_3_Displacement.png" RoughnessFile="Texture_3_Roughness.png" TileSize="512,512" TileOffset="0,0" Metallic="0" Smoothness="0" Color="#ff6d10ff" />
+    </SplatTexture>
+    <SplatTexture Index="1">
+      <TextureInfo Name="Material_Water_Mud" Type="Set" AlbedoFile="Texture_4_Albedo.png" NormalFile="Texture_4_Normal.png" AoFile="Texture_4_Ao.png" DisplacementFile="Texture_4_Displacement.png" RoughnessFile="Texture_4_Roughness.png" TileSize="1024,1024" TileOffset="0,0" Metallic="0" Smoothness="0" Color="#ffffffff" />
+      <TextureInfo Name="Material" Type="Set" AlbedoFile="Texture_5_Albedo.jpg" NormalFile="Texture_5_Normal.jpg" AoFile="Texture_5_Ao.jpg" DisplacementFile="Texture_5_Displacement.exr" RoughnessFile="Texture_5_Roughness.jpg" TileSize="1,1" TileOffset="0,0" Metallic="0" Smoothness="0" Color="#ffffffff" />
+      <TextureInfo Name="Material_Grass_Lawn" Type="Set" AlbedoFile="Texture_6_Albedo.png" NormalFile="Texture_6_Normal.png" AoFile="Texture_6_Ao.png" DisplacementFile="Texture_6_Displacement.png" RoughnessFile="Texture_6_Roughness.png" TileSize="512,512" TileOffset="0,0" Metallic="0" Smoothness="0" Color="#ffffffff" />
+    </SplatTexture>
+  </Texturing>
+</WorldCreator>
